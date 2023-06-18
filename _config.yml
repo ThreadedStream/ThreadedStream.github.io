@@ -3,8 +3,9 @@ name: threadedstream
 
 description: (Not yet) a software engineer
 
-avatar: "https://avatars.githubusercontent.com/u/60438666?v=4"
+avatar: "https://raw.githubusercontent.com/threadedstream/ThreadedStream.github.io/main/images/60438666.jpeg"
 
+author: threadedstream
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
